@@ -25,4 +25,12 @@ Sistem Informasi Klinik Kesehatan adalah aplikasi berbasis web yang dirancang un
 1. Clone repository ini:
    ```bash
    git clone https://github.com/username/nama-proyek.git
+   
+## 📷 Video
+link YouTube
+https://youtu.be/g9JhFgHavjw?si=3yzqYqxeCWVE8DbS
+
+## 🏥 Link Hosting 
+https://alma.mangaverse.my.id/
+ 
 
